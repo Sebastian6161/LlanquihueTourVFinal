@@ -1,0 +1,3 @@
+CLIENTE;Sebastián;Ávila;20987654-3;Av. Los Lagos;120;Puerto Varas;Los Lagos;Chile;987654321;sebastian@gmail.com;Chile;150
+GUIA;María;González;12345678-9;Av. Alemania;455;Puerto Montt;Los Lagos;Chile;912345678;maria@gmail.com;Chile;Turismo Aventura
+PROVEEDOR;Pedro;Rojas;11111111-1;Chacabuco;89;Llanquihue;Los Lagos;Chile;998877665;pedro@gmail.com;Chile;Transportes Llanquihue
